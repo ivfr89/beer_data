@@ -1,0 +1,55 @@
+[
+  {
+    "id": 1,
+    "name": "Punk IPA",
+    "tagline": "Post Modern Classic. Spiky. Tropical.",
+    "description": "Our flagship beer that kick-started the craft beer revolution. A decade ago this little upstart caused a craft beer revolution.",
+    "abv": 5.6,
+    "image_url": "https://images.punkapi.com/v2/keg.png",
+    "first_brewed": "04/2007",
+    "brewers_tips": "Try pairing with spicy food or a citrus dessert.",
+    "ingredients": {
+      "malt": ["Extra Pale", "Caramel Malt", "Munich Malt"],
+      "hops": ["Ahtanum", "Chinook", "Cascade", "Simcoe"],
+      "yeast": "Wyeast 1056 - American Ale™"
+    },
+    "method": {
+      "mash_temp": [
+        {
+          "temp": "65°C",
+          "duration": "75 minutes"
+        }
+      ],
+      "fermentation": {
+        "temp": "19°C"
+      }
+    }
+  },
+  {
+    "id": 2,
+    "name": "Buzz",
+    "tagline": "A Real Bitter Experience.",
+    "description": "A light, crisp and bitter IPA brewed with English and American hops. A small batch brewed every other month.",
+    "abv": 4.5,
+    "image_url": "https://images.punkapi.com/v2/buzz.png",
+    "first_brewed": "09/2009",
+    "brewers_tips": "Great for pairing with burgers or spicy food.",
+    "ingredients": {
+      "malt": ["Pale Ale", "Carapils", "Caramel 60L"],
+      "hops": ["Cascade", "Centennial"],
+      "yeast": "Safale US-05"
+    },
+    "method": {
+      "mash_temp": [
+        {
+          "temp": "65°C",
+          "duration": "60 minutes"
+        }
+      ],
+      "fermentation": {
+        "temp": "20°C"
+      }
+    }
+  }
+]
+
